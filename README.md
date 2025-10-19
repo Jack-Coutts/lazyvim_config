@@ -3,6 +3,9 @@
 A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
 Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
 
+## Instructions
+
+Ensure you place this whole repo at `~/.config/nvim/` to install.
 
 Ensure that you have the `rg` and `fd` packages installed. Install with:
 
